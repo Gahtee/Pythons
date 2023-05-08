@@ -13,6 +13,7 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * A marioria precisa de apenas o python basico em si, mas cheque as depedencias.
+* Leia a [wiki](https://github.com/Gahtee/Pythons/wiki) para mais informações
 
 ## 📫 Contribuindo para os Projetos
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
