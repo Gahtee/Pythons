@@ -6,7 +6,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/Gahtee/pythons?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Gahtee/pythons?style=for-the-badge)
 
-> Apenas alguns projetos em python que eu fiz quando preciso. geralmente faço quando quero algo pequeno ou rapido
+> Apenas alguns projetos aleatorios em python que eu fiz quando preciso. geralmente faço quando quero algo pequeno ou rapido
 
 
 ## 💻 Pré-requisitos
